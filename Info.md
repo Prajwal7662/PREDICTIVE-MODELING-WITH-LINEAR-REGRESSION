@@ -80,7 +80,7 @@ Prediction – Test model on unseen data.
 
 Clone this repository
 
-git clone https://github.com/yourusername/PREDICTIVE-MODELING-WITH-LINEAR-REGRESSION.git
+git clone https://github.com/prajwal7662/PREDICTIVE-MODELING-WITH-LINEAR-REGRESSION.git
 cd PREDICTIVE-MODELING-WITH-LINEAR-REGRESSION
 
 
