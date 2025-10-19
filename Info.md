@@ -7,6 +7,7 @@ Linear Regression is one of the most fundamental algorithms in Machine Learning,
 
 The goal of this project is to train, evaluate, and interpret a linear regression model for predictive tasks.
 
+
 🎯 Objectives
 
 Understand the concept of Linear Regression.
