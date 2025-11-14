@@ -35,6 +35,7 @@ matplotlib & seaborn → Data visualization
 
 scikit-learn → Machine Learning model & evaluation
 
+
 📊 Methodology
 
 Data Collection – Load dataset (CSV/Excel or built-in datasets).
